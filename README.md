@@ -32,7 +32,7 @@ Along the frustration line $J_3 = J_2/2$, we resolved the continuous transition 
 <br>
 
 **Main observables computation with the BKT phase transition red line**<br>
-*(Not exactly in the peaks of $\chi$ and $C_V$ because of the topological nature of the transition; see report for details).*<br>
+*(Not exactly in the peaks of $$\chi$$ and $$C_V$$ because of the topological nature of the transition; see report for details).*<br>
 <img width="280" alt="Main observables" src="https://github.com/user-attachments/assets/72e15861-00f9-40b1-962a-8a5b5f2ca8fd" />
 
 ---
