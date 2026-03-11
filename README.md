@@ -18,22 +18,11 @@ Along the frustration line $J_3 = J_2/2$, we resolved the continuous transition 
 
 
 
-
 ### 📊 The Physics in images
 
-**Structure factor in the spiral spin liquid phase transition**<br>
-<img width="280" alt="Structure factor" src="https://github.com/user-attachments/assets/4e715ed2-133b-4274-b478-b495ec0d1e8a" />
-
-
-
-**Spin configuration in real space, with momentum vortices visible**<br>
-<img width="280" alt="Spin configuration" src="https://github.com/user-attachments/assets/d503cd05-8a8f-48e2-914b-18d5b4f2f914" />
-
-
-
-**Main observables computation with the BKT phase transition red line**<br>
-*(Not exactly in the peaks of $\chi$ and $C_V$ because of the topological nature of the transition; see report for details).*<br>
-<img width="280" alt="Main observables" src="https://github.com/user-attachments/assets/72e15861-00f9-40b1-962a-8a5b5f2ca8fd" />
-
+| Structure factor | Spin configuration | Main observables |
+| :---: | :---: | :---: |
+| <img width="300" alt="Sq" src="https://github.com/user-attachments/assets/4e715ed2-133b-4274-b478-b495ec0d1e8a" /> | <img width="300" alt="Spin config" src="https://github.com/user-attachments/assets/d503cd05-8a8f-48e2-914b-18d5b4f2f914" /> | <img width="300" alt="Observables" src="https://github.com/user-attachments/assets/72e15861-00f9-40b1-962a-8a5b5f2ca8fd" /> |
+| *Structure factor in the spiral spin liquid phase transition.* | *Spin configuration in real space, with momentum vortices visible.* | *Main observables computation with the BKT phase transition red line (not exactly in the peaks of &chi; and C<sub>V</sub> because of the topological nature of the transition; see report for details).* |
 
 *For full methodology and detailed results, please refer to the attached PDF report.*
