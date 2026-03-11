@@ -3,7 +3,7 @@
 # 🌀 Study of vortices in XY magnets on the triangular lattice via classical Monte Carlo simulations
 
 
-**TL;DR:** This repository contains a tailor-made C++ implementation of a Metropolis-Hastings MCMC algorithm. It explores complex magnetic phases in the geometrically frustrated triangular XY model, successfully identifying the topological BKT transition and providing strong numerical evidence for momentum vortices in triangular geometry in the thermodynamic limit.
+**TL;DR:** This repository contains the tailor-made C++ implementation of my Metropolis-Hastings MCMC algorithm. It explores complex magnetic phases in the geometrically frustrated triangular XY model. I successfully identified the topological BKT transition and provided strong numerical evidence for momentum vortices in triangular geometry in the thermodynamic limit.
 
 
 
