@@ -19,7 +19,7 @@ Along the frustration line $J_3 = J_2/2$, we resolved the continuous transition 
 
 
 
-### 📊 The Physics in images
+### 🔬 The Physics in images
 
 | Structure factor | Spin configuration | Main observables |
 | :---: | :---: | :---: |
